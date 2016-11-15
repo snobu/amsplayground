@@ -7,6 +7,14 @@ A console application demonstrating the Media Services NET SDK.
 - Encode to Multibitrate MP4 with progress indicator
 - Get streaming locator
 
+Amend `app.config` with your AMS account name and key:
+
+```xml
+  <appSettings>
+    <add key="accKey" value="MEDIA_SERVICES_ACCOUNT_KEY" />
+    <add key="accName" value="MEDIA_SERVICES_ACCOUNT_NAME" />
+  </appSettings>
+```
 
 ## Resources
 
