@@ -1,0 +1,7 @@
+*.suo
+*.user
+*.sdf
+_ReSharper.*
+amsplayground/bin/
+amsplayground/obj/
+packages/

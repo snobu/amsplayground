@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="amsplayground.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="accKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">v9RN8G+Sq+zrhMdS6cpg7chTbPUgJbRgEKkREwFuYk7vUaK2x99EZDATU8QaKbsGoSxovOKN0GUEkuQykJHkcQ==</Value>
+    </Setting>
+    <Setting Name="accName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">amsplayground</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
